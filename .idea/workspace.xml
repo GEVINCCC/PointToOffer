@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No10">
+  <component name="RunManager" selected="Application.No11">
     <configuration name="No10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No10" />
       <module name="剑指offer" />
@@ -63,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No6" />
+    <configuration name="No11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No11" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -115,16 +118,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No11" />
         <item itemvalue="Application.No10" />
         <item itemvalue="Application.No9" />
         <item itemvalue="Application.No8" />
         <item itemvalue="Application.No7" />
-        <item itemvalue="Application.No6" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -148,11 +163,12 @@
       <workItem from="1616678630052" duration="633000" />
       <workItem from="1616683756545" duration="343000" />
       <workItem from="1616685684138" duration="11000" />
+      <workItem from="1616819275986" duration="9906000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -165,48 +181,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="309" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616504911019">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="309" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1616504911019" />
-    <state x="634" y="215" key="FileChooserDialogImpl" timestamp="1616593211509">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="634" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1616593211509" />
-    <state width="1663" height="300" key="GridCell.Tab.0.bottom" timestamp="1616671080896">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1616671080896" />
-    <state width="1663" height="300" key="GridCell.Tab.0.center" timestamp="1616671080895">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1616671080895" />
-    <state width="1663" height="300" key="GridCell.Tab.0.left" timestamp="1616671080895">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1616671080895" />
-    <state width="1663" height="300" key="GridCell.Tab.0.right" timestamp="1616671080895">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1616671080895" />
-    <state width="1663" height="300" key="GridCell.Tab.1.bottom" timestamp="1616671080896">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1616671080896" />
-    <state width="1663" height="300" key="GridCell.Tab.1.center" timestamp="1616671080896">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1616671080896" />
-    <state width="1663" height="300" key="GridCell.Tab.1.left" timestamp="1616671080896">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1616671080896" />
-    <state width="1663" height="300" key="GridCell.Tab.1.right" timestamp="1616671080896">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1616671080896" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
