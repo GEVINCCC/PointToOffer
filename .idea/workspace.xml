@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No6.java" afterDir="false" />
-    </list>
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No11">
+  <component name="RunManager" selected="Application.No13">
     <configuration name="No10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No10" />
       <module name="剑指offer" />
@@ -79,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No7" />
+    <configuration name="No12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No12" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No8" />
+    <configuration name="No13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No13" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -118,28 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No13" />
+        <item itemvalue="Application.No12" />
         <item itemvalue="Application.No11" />
         <item itemvalue="Application.No10" />
         <item itemvalue="Application.No9" />
-        <item itemvalue="Application.No8" />
-        <item itemvalue="Application.No7" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -164,11 +150,13 @@
       <workItem from="1616683756545" duration="343000" />
       <workItem from="1616685684138" duration="11000" />
       <workItem from="1616819275986" duration="9906000" />
+      <workItem from="1617009906394" duration="10000" />
+      <workItem from="1617018229712" duration="8251000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -181,6 +169,24 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1663" height="167" key="GridCell.Tab.0.bottom" timestamp="1617031157483">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="167" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1617031157483" />
+    <state width="1663" height="167" key="GridCell.Tab.0.center" timestamp="1617031157483">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="167" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1617031157483" />
+    <state width="1663" height="167" key="GridCell.Tab.0.left" timestamp="1617031157483">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="167" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1617031157483" />
+    <state width="1663" height="167" key="GridCell.Tab.0.right" timestamp="1617031157483">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="167" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1617031157483" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
