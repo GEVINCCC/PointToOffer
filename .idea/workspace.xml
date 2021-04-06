@@ -49,46 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No18_2">
-    <configuration name="No16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No16" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No17" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No18" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.No21">
     <configuration name="No18_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No18_1" />
       <module name="剑指offer" />
@@ -115,13 +76,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No19" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No20" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No21" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No21" />
+        <item itemvalue="Application.No20" />
+        <item itemvalue="Application.No19" />
         <item itemvalue="Application.No18_2" />
         <item itemvalue="Application.No18_1" />
-        <item itemvalue="Application.No18" />
-        <item itemvalue="Application.No17" />
-        <item itemvalue="Application.No16" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +155,10 @@
       <workItem from="1617088031841" duration="8523000" />
       <workItem from="1617254919374" duration="13244000" />
       <workItem from="1617339318440" duration="6927000" />
+      <workItem from="1617346526086" duration="9000" />
+      <workItem from="1617375599129" duration="2597000" />
+      <workItem from="1617616225521" duration="8586000" />
+      <workItem from="1617694586347" duration="11616000" />
     </task>
     <servers />
   </component>
@@ -174,22 +178,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1663" height="300" key="GridCell.Tab.0.bottom" timestamp="1617346422254">
+    <state x="634" y="265" key="FileChooserDialogImpl" timestamp="1617346533245">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
-    <state width="1663" height="300" key="GridCell.Tab.0.center" timestamp="1617346422254">
+    <state x="634" y="265" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1617346533245" />
+    <state width="1649" height="156" key="GridCell.Tab.0.bottom" timestamp="1617709553464">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
-    <state width="1663" height="300" key="GridCell.Tab.0.left" timestamp="1617346422253">
+    <state width="1649" height="156" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
+    <state width="1649" height="156" key="GridCell.Tab.0.center" timestamp="1617709553464">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1617346422253" />
-    <state width="1663" height="300" key="GridCell.Tab.0.right" timestamp="1617346422254">
+    <state width="1649" height="156" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
+    <state width="1649" height="156" key="GridCell.Tab.0.left" timestamp="1617709553464">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
+    <state width="1649" height="156" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
+    <state width="1649" height="156" key="GridCell.Tab.0.right" timestamp="1617709553464">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1649" height="156" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
     <state width="1663" height="300" key="GridCell.Tab.1.bottom" timestamp="1617346422254">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -206,10 +214,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1663" height="300" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1617256351874">
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1617700869148">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1617256351874" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1617700869148" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
