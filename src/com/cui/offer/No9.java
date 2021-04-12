@@ -2,7 +2,7 @@ package com.cui.offer;
 
 import java.util.Stack;
 
-//用两个栈实现队列
+// 用两个栈实现队列
 public class No9 {
 
     public static class CQueue {

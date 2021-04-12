@@ -1,6 +1,6 @@
 package com.cui.offer;
 
-//旋转数组的最小数字
+// 旋转数组的最小数字
 public class No11 {
     public static void main(String[] args) {
         int[] a = {3 ,4 ,6 ,1 ,2 ,2};

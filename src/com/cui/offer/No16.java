@@ -1,6 +1,6 @@
 package com.cui.offer;
 
-//数值的整数次方
+// 数值的整数次方
 public class No16 {
 
     public static void main(String[] args) {

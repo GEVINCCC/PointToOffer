@@ -1,6 +1,6 @@
 package com.cui.offer;
 
-//剪绳子
+// 剪绳子
 public class No14 {
 
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class No14 {
         System.out.println(cuttingRope4(10));
     }
 
-    //解法一：递归
+    // 解法一：递归
     public static int cuttingRope(int n) {
         return cuttingRopeCore(n);
     }
@@ -29,7 +29,7 @@ public class No14 {
         return result;
     }
 
-    //解法二：递归+剪枝
+    // 解法二：递归+剪枝
     public static int cuttingRope2(int n) {
         int[] figured = new int[n];
         return cuttingRopeCore2(n, figured);
@@ -50,16 +50,16 @@ public class No14 {
         return result;
     }
 
-    //解法三：动态规划
+    // 解法三：动态规划
     public static int cuttingRope3(int n) {
         if(n == 2)
             return 1;
         int[] dp = new int[n+1];
-        dp[2]=1;   //绳子长度为2的时候，最大乘积为1
+        dp[2]=1;   // 绳子长度为2的时候，最大乘积为1
 
         int temp = 0;
         int result = 0;
-        for(int i = 3; i <= n; i++) {              //求出dp[3]到dp[n]
+        for(int i = 3; i <= n; i++) {              // 求出dp[3]到dp[n]
             for(int j = 1; j <= i/2; j++) {
                 temp = Math.max(j * (i - j), j * dp[i-j]);
                 if(temp > result)
@@ -70,7 +70,7 @@ public class No14 {
         return result;
     }
 
-    //解法四：贪心算法
+    // 解法四：贪心算法
     public static int cuttingRope4(int n) {
         if(n == 2)
             return 1;

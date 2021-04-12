@@ -19,7 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No18_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No18_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No18_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No18_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,59 +70,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No21">
-    <configuration name="No18_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No18_1" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No18_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No18_2" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No19" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No20" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.No25">
     <configuration name="No21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No21" />
       <module name="剑指offer" />
@@ -115,13 +84,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No22" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No23" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No24" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No25" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No25" />
+        <item itemvalue="Application.No24" />
+        <item itemvalue="Application.No23" />
+        <item itemvalue="Application.No22" />
         <item itemvalue="Application.No21" />
-        <item itemvalue="Application.No20" />
-        <item itemvalue="Application.No19" />
-        <item itemvalue="Application.No18_2" />
-        <item itemvalue="Application.No18_1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +180,7 @@
       <workItem from="1617375599129" duration="2597000" />
       <workItem from="1617616225521" duration="8586000" />
       <workItem from="1617694586347" duration="11616000" />
+      <workItem from="1618225709145" duration="9056000" />
     </task>
     <servers />
   </component>
@@ -182,22 +204,22 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="634" y="265" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1617346533245" />
-    <state width="1649" height="156" key="GridCell.Tab.0.bottom" timestamp="1617709553464">
+    <state width="1649" height="156" key="GridCell.Tab.0.bottom" timestamp="1618236771474">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
-    <state width="1649" height="156" key="GridCell.Tab.0.center" timestamp="1617709553464">
+    <state width="1649" height="156" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
+    <state width="1649" height="156" key="GridCell.Tab.0.center" timestamp="1618236771474">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
-    <state width="1649" height="156" key="GridCell.Tab.0.left" timestamp="1617709553464">
+    <state width="1649" height="156" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
+    <state width="1649" height="156" key="GridCell.Tab.0.left" timestamp="1618236771474">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
-    <state width="1649" height="156" key="GridCell.Tab.0.right" timestamp="1617709553464">
+    <state width="1649" height="156" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
+    <state width="1649" height="156" key="GridCell.Tab.0.right" timestamp="1618236771474">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1617709553464" />
+    <state width="1649" height="156" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
     <state width="1663" height="300" key="GridCell.Tab.1.bottom" timestamp="1617346422254">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -218,19 +240,5 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1617700869148" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/cui/offer/No7.java</url>
-          <line>106</line>
-          <properties class="com.cui.offer.No7" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

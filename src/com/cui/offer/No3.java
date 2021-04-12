@@ -3,7 +3,7 @@ package com.cui.offer;
 import java.util.Arrays;
 import java.util.HashSet;
 
-//数组中重复数字
+// 数组中重复数字
 public class No3 {
     public static void main(String[] args) {
         int[] data = {2,3,1,0,2,5,3};
@@ -11,7 +11,7 @@ public class No3 {
         System.out.println(findRepeatNumber2(data));
     }
 
-    //修改数组的方法：数组排序
+    // 修改数组的方法：数组排序
     public static int findRepeatNumber(int[] nums) {
         if(nums.length == 0)
             return -1;

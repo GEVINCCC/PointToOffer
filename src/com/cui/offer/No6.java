@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
 
-//从尾到头打印链表
+// 从尾到头打印链表
 public class No6 {
 
     public static class ListNode {
@@ -13,7 +13,7 @@ public class No6 {
     ListNode next;
     ListNode(int x) { val = x; }
   }
-    //使用栈方法
+    // 使用栈方法
     public static int[] reversePrint(ListNode head) {
         if(head == null) {
             int[] result ={};
@@ -34,7 +34,7 @@ public class No6 {
     }
 
 
-    //使用递归
+    // 使用递归
     public static void reversePrint2(ListNode head,List<Integer> list) {
         if(head == null) {
             return ;

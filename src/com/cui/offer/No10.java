@@ -1,9 +1,9 @@
 package com.cui.offer;
 
-//斐波那契数列
+// 斐波那契数列
 public class No10 {
 
-    //解法一：递归法
+    // 解法一：递归法
     public static int fib(int n) {
         if(n == 0)
             return 0;
@@ -12,7 +12,7 @@ public class No10 {
         return  (fib(n - 1) +fib(n - 2)) % 1000000007;
     }
 
-    //解法二：递归+剪枝
+    // 解法二：递归+剪枝
     public static int fib2(int n) {
         if(n == 0)
             return 0;
@@ -34,7 +34,7 @@ public class No10 {
     }
 
 
-    //解法三：动态规划（循环）
+    // 解法三：动态规划（循环）
     public static int fib3(int n) {
         if(n == 0)
             return 0;

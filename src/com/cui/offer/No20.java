@@ -3,7 +3,7 @@ package com.cui.offer;
 import java.util.HashMap;
 import java.util.Map;
 
-//表示数值的字符串
+// 表示数值的字符串
 public class No20 {
 
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class No20 {
         System.out.print(isNumber(s));
     }
 
-    //解法一：有限状态机
+    // 解法一：有限状态机
     public static boolean isNumber(String s) {
         Map<CharType, Integer>[] states = new Map[10];
         states[0] = new HashMap<>();
@@ -51,14 +51,14 @@ public class No20 {
         int state = 0;
         for(char c: s.toCharArray()) {
             CharType charType = toCharType(c);
-            if(states[state].containsKey(charType)) {        //如果当前状态可以转换到下一状态
+            if(states[state].containsKey(charType)) {        // 如果当前状态可以转换到下一状态
                 state = states[state].get(charType);
             }
-            else {                       //如果当前状态没有下一状态可以转换且字符串还没遍历结束，则一定不是字符
+            else {                       // 如果当前状态没有下一状态可以转换且字符串还没遍历结束，则一定不是字符
                 return false;
             }
         }
-        return state == 2 || state == 3 || state == 5 || state == 8 || state == 9; //字符串遍历结束，判断是否在终止状态
+        return state == 2 || state == 3 || state == 5 || state == 8 || state == 9; // 字符串遍历结束，判断是否在终止状态
     }
 
     public static CharType toCharType(char c) {

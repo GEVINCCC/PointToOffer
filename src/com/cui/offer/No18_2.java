@@ -1,6 +1,6 @@
 package com.cui.offer;
 
-//删除链表中重复的节点
+// 删除链表中重复的节点
 public class No18_2 {
     public static class ListNode {
         int val;
@@ -33,7 +33,7 @@ public class No18_2 {
     }
 
     public static ListNode deleteDuplication(ListNode head) {
-        if(head == null)             //空链表
+        if(head == null)             // 空链表
             return null;
 
         ListNode cur = head;
@@ -44,8 +44,8 @@ public class No18_2 {
                 pre = cur;
                 cur = cur.next;
             }
-            else {    //需要删除重复节点的情况
-                if(pre == null) {                 //说明要删除的是第一二个节点
+            else {    // 需要删除重复节点的情况
+                if(pre == null) {                 // 说明要删除的是第一二个节点
                     head = cur.next.next;
                     cur = head;
                 }

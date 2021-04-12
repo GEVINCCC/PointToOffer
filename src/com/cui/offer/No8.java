@@ -1,6 +1,6 @@
 package com.cui.offer;
 
-//二叉树的下一个节点
+// 二叉树的下一个节点
 public class No8 {
     public static class TreeNode {
         public int val;
@@ -16,7 +16,7 @@ public class No8 {
     }
 
     public static TreeNode getNext(TreeNode node){
-        //若该节点有右子树 --> 下一个节点是右子树的最左节点
+        // 若该节点有右子树 --> 下一个节点是右子树的最左节点
         if(node.right != null) {
             TreeNode temp = node.right;
             while(temp.left != null) {
@@ -24,11 +24,11 @@ public class No8 {
             }
             return temp;
         }
-        //若该节点无右子树，且是父节点的左节点--> 下一个节点是父节点
+        // 若该节点无右子树，且是父节点的左节点--> 下一个节点是父节点
         else if(node.father.left == node) {
                 return node.father;
         }
-        //若该节点无右子树，且是父节点的右节点--> 从父指针向上遍历寻找一个节点，该节点是其父节点的左节点，则该节点的父节点是下一个
+        // 若该节点无右子树，且是父节点的右节点--> 从父指针向上遍历寻找一个节点，该节点是其父节点的左节点，则该节点的父节点是下一个
         else {
             TreeNode temp = node.father;
             while(true) {

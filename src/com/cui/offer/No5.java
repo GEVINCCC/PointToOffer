@@ -1,7 +1,7 @@
 package com.cui.offer;
 
 
-//替换空格
+// 替换空格
 public class No5 {
 
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class No5 {
         System.out.println(replaceSpace2(s));
     }
 
-    //使用字符数组
+    // 使用字符数组
     public static String replaceSpace(String s) {
 
         if(s == null)
@@ -46,7 +46,7 @@ public class No5 {
         return String.valueOf(newStr);
     }
 
-    //使用StringBuilder
+    // 使用StringBuilder
     public static String replaceSpace2(String s) {
         if(s == null)
             return null;
