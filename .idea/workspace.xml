@@ -19,28 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No18_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No18_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No18_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No18_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No9.java" afterDir="false" />
-    </list>
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,20 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No25">
-    <configuration name="No21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No21" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.No26">
     <configuration name="No22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No22" />
       <module name="剑指offer" />
@@ -136,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No26" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No26" />
         <item itemvalue="Application.No25" />
         <item itemvalue="Application.No24" />
         <item itemvalue="Application.No23" />
         <item itemvalue="Application.No22" />
-        <item itemvalue="Application.No21" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +160,8 @@
       <workItem from="1617616225521" duration="8586000" />
       <workItem from="1617694586347" duration="11616000" />
       <workItem from="1618225709145" duration="9056000" />
+      <workItem from="1618237299543" duration="46000" />
+      <workItem from="1618320612132" duration="2633000" />
     </task>
     <servers />
   </component>
