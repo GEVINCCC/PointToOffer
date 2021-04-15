@@ -49,9 +49,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No26">
-    <configuration name="No22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No22" />
+  <component name="RunManager" selected="Application.No32_3">
+    <configuration name="No30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No30" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No23" />
+    <configuration name="No31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No31" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No24" />
+    <configuration name="No32_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No32_1" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No25" />
+    <configuration name="No32_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No32_2" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No26" />
+    <configuration name="No32_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No32_3" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.No26" />
-        <item itemvalue="Application.No25" />
-        <item itemvalue="Application.No24" />
-        <item itemvalue="Application.No23" />
-        <item itemvalue="Application.No22" />
+        <item itemvalue="Application.No32_3" />
+        <item itemvalue="Application.No32_2" />
+        <item itemvalue="Application.No32_1" />
+        <item itemvalue="Application.No31" />
+        <item itemvalue="Application.No30" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,10 @@
       <workItem from="1617694586347" duration="11616000" />
       <workItem from="1618225709145" duration="9056000" />
       <workItem from="1618237299543" duration="46000" />
-      <workItem from="1618320612132" duration="2633000" />
+      <workItem from="1618320612132" duration="2875000" />
+      <workItem from="1618378700112" duration="921000" />
+      <workItem from="1618386723635" duration="2198000" />
+      <workItem from="1618464552523" duration="12566000" />
     </task>
     <servers />
   </component>
@@ -185,38 +188,38 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="634" y="265" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1617346533245" />
-    <state width="1649" height="156" key="GridCell.Tab.0.bottom" timestamp="1618236771474">
+    <state width="1663" height="300" key="GridCell.Tab.0.bottom" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
-    <state width="1649" height="156" key="GridCell.Tab.0.center" timestamp="1618236771474">
+    <state width="1663" height="300" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
+    <state width="1663" height="300" key="GridCell.Tab.0.center" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
-    <state width="1649" height="156" key="GridCell.Tab.0.left" timestamp="1618236771474">
+    <state width="1663" height="300" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
+    <state width="1663" height="300" key="GridCell.Tab.0.left" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
-    <state width="1649" height="156" key="GridCell.Tab.0.right" timestamp="1618236771474">
+    <state width="1663" height="300" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1618487048854" />
+    <state width="1663" height="300" key="GridCell.Tab.0.right" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1649" height="156" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1618236771474" />
-    <state width="1663" height="300" key="GridCell.Tab.1.bottom" timestamp="1617346422254">
+    <state width="1663" height="300" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
+    <state width="1663" height="300" key="GridCell.Tab.1.bottom" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
-    <state width="1663" height="300" key="GridCell.Tab.1.center" timestamp="1617346422254">
+    <state width="1663" height="300" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
+    <state width="1663" height="300" key="GridCell.Tab.1.center" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
-    <state width="1663" height="300" key="GridCell.Tab.1.left" timestamp="1617346422254">
+    <state width="1663" height="300" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
+    <state width="1663" height="300" key="GridCell.Tab.1.left" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
-    <state width="1663" height="300" key="GridCell.Tab.1.right" timestamp="1617346422254">
+    <state width="1663" height="300" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
+    <state width="1663" height="300" key="GridCell.Tab.1.right" timestamp="1618487048855">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="300" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1617346422254" />
+    <state width="1663" height="300" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1618487048855" />
     <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1617700869148">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
