@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,20 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No35">
-    <configuration name="No32_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No32_2" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.No37">
     <configuration name="No32_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No32_3" />
       <module name="剑指offer" />
@@ -117,28 +102,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="No37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No37" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No37" />
         <item itemvalue="Application.No35" />
         <item itemvalue="Application.No34" />
         <item itemvalue="Application.No33" />
         <item itemvalue="Application.No32_3" />
-        <item itemvalue="Application.No32_2" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -197,5 +184,23 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1663" height="163" key="GridCell.Tab.0.bottom" timestamp="1618733851727">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="163" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1618733851727" />
+    <state width="1663" height="163" key="GridCell.Tab.0.center" timestamp="1618733851727">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="163" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1618733851727" />
+    <state width="1663" height="163" key="GridCell.Tab.0.left" timestamp="1618733851727">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="163" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1618733851727" />
+    <state width="1663" height="163" key="GridCell.Tab.0.right" timestamp="1618733851727">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="163" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1618733851727" />
   </component>
 </project>
