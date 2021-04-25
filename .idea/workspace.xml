@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,59 +51,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.No46">
-    <configuration name="No39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No39" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No41" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No44" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No45" />
-      <module name="剑指offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.No50">
     <configuration name="No46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cui.offer.No46" />
       <module name="剑指offer" />
@@ -115,17 +65,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No47" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No48" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No49" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No50" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No50" />
+        <item itemvalue="Application.No49" />
+        <item itemvalue="Application.No48" />
+        <item itemvalue="Application.No47" />
         <item itemvalue="Application.No46" />
-        <item itemvalue="Application.No45" />
-        <item itemvalue="Application.No44" />
-        <item itemvalue="Application.No41" />
-        <item itemvalue="Application.No39" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -172,11 +187,13 @@
       <workItem from="1618912470785" duration="1330000" />
       <workItem from="1618977559881" duration="7110000" />
       <workItem from="1619071697103" duration="5270000" />
+      <workItem from="1619325652797" duration="7496000" />
+      <workItem from="1619343572534" duration="1442000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -189,28 +206,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1663" height="163" key="GridCell.Tab.0.bottom" timestamp="1619082861706">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1619082861706" />
-    <state width="1663" height="163" key="GridCell.Tab.0.center" timestamp="1619082861706">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1619082861706" />
-    <state width="1663" height="163" key="GridCell.Tab.0.left" timestamp="1619082861706">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1619082861706" />
-    <state width="1663" height="163" key="GridCell.Tab.0.right" timestamp="1619082861706">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1619082861706" />
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1618898098389">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1618898098389" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
