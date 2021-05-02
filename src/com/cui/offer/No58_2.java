@@ -1,5 +1,6 @@
 package com.cui.offer;
 
+// 左旋转字符串
 public class No58_2 {
     public static void main(String[] args) {
         System.out.print(reverseLeftWords("abcdefg", 2));
