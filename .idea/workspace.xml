@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/cui/offer/No58_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/offer/No58_2.java" afterDir="false" />
-    </list>
+    <list default="true" id="4273d721-e4d6-43cf-a77c-8d7746595acf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +47,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../多云灾备管理平台/task/migration" />
   </component>
-  <component name="RunManager" selected="Application.No59_2">
-    <configuration name="No57_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No57_2" />
+  <component name="RunManager" selected="Application.No68_2">
+    <configuration name="No65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No65" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No58_1" />
+    <configuration name="No66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No66" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No58_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No58_2" />
+    <configuration name="No67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No67" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No59_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No59_1" />
+    <configuration name="No68_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No68_1" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No59_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No59_2" />
+    <configuration name="No68_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.offer.No68_2" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.No59_2" />
-        <item itemvalue="Application.No59_1" />
-        <item itemvalue="Application.No58_2" />
-        <item itemvalue="Application.No58_1" />
-        <item itemvalue="Application.No57_2" />
+        <item itemvalue="Application.No68_2" />
+        <item itemvalue="Application.No68_1" />
+        <item itemvalue="Application.No67" />
+        <item itemvalue="Application.No66" />
+        <item itemvalue="Application.No65" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +183,17 @@
       <workItem from="1619795092216" duration="602000" />
       <workItem from="1619840914542" duration="281000" />
       <workItem from="1619959799850" duration="4984000" />
+      <workItem from="1620019702563" duration="74000" />
+      <workItem from="1620052846742" duration="3212000" />
+      <workItem from="1620064224789" duration="1727000" />
+      <workItem from="1620108352525" duration="10375000" />
+      <workItem from="1620195902527" duration="14000" />
+      <workItem from="1620236345077" duration="1070000" />
+      <workItem from="1620355985887" duration="2600000" />
+      <workItem from="1620370988385" duration="9553000" />
+      <workItem from="1620442561211" duration="6063000" />
+      <workItem from="1620452976158" duration="2447000" />
+      <workItem from="1620623084943" duration="15000" />
     </task>
     <servers />
   </component>
@@ -208,26 +217,30 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="632" y="353" width="443" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.920@0.0.1707.920" timestamp="1619490356333" />
-    <state x="634" y="215" key="FileChooserDialogImpl" timestamp="1619841196402">
+    <state x="634" y="215" key="FileChooserDialogImpl" timestamp="1620623094143">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="634" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1619841196402" />
-    <state width="1663" height="163" key="GridCell.Tab.0.bottom" timestamp="1619968258607">
+    <state x="634" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1620623094143" />
+    <state width="1663" height="121" key="GridCell.Tab.0.bottom" timestamp="1620448701292">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1619968258607" />
-    <state width="1663" height="163" key="GridCell.Tab.0.center" timestamp="1619968258607">
+    <state width="1663" height="121" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1620448701292" />
+    <state width="1663" height="121" key="GridCell.Tab.0.center" timestamp="1620448701292">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1619968258607" />
-    <state width="1663" height="163" key="GridCell.Tab.0.left" timestamp="1619968258607">
+    <state width="1663" height="121" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1620448701292" />
+    <state width="1663" height="121" key="GridCell.Tab.0.left" timestamp="1620448701292">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1619968258607" />
-    <state width="1663" height="163" key="GridCell.Tab.0.right" timestamp="1619968258607">
+    <state width="1663" height="121" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1620448701292" />
+    <state width="1663" height="121" key="GridCell.Tab.0.right" timestamp="1620448701292">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="163" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1619968258607" />
+    <state width="1663" height="121" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1620448701292" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1620379784759">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1620379784759" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
